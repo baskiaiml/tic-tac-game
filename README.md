@@ -67,6 +67,9 @@ To run this project locally, follow these steps:
 ## Game Logic
 The game logic is implemented in `winning_combinations.js`, which contains an array of winning combinations for Tic-Tac-Toe. The game checks these combinations to determine if a player has won.
 
+## Acknowledgments
+Special thanks to **Academind by Maximilian Schwarzmüller** for providing an excellent React learning experience. Check out his Udemy course here: [React - The Complete Guide (incl. Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?couponCode=LEARNNOWPLANS).
+
 ## License
 This project is open-source and available for modification and distribution.
 
